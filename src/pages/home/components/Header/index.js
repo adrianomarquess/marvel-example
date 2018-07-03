@@ -32,7 +32,7 @@ class Header extends Component {
     <View style={styles.headerContainer}>
       <View style={styles.leftButton} />
 
-      <Text style={styles.title}>Fullbar Marvel</Text>
+      <Text style={styles.title}>Marvel</Text>
 
       <TouchableOpacity
         style={styles.rightButton}
